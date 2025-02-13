@@ -1,6 +1,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yhk834)](https://solved.ac/yhk834)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=yhk834&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=yhk834&theme=warm)
 <!--
 **FB08/FB08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
